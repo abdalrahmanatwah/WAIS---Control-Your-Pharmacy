@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Volumes/abdalrahman/Projects/WAIS - Control Your Pharmacy/build/Debug-iphoneos/CountryPickerSwift/CountryPicker.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Volumes/abdalrahman/Projects/WAIS - Control Your Pharmacy/build/Pods.build/Debug-iphoneos/CountryPickerSwift.build/unextended-module.modulemap',
+    }]
+  }]
+}

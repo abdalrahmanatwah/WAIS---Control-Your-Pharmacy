@@ -1,0 +1,6 @@
+framework module Pods_Essam_Atwah {
+  umbrella header "Pods-Essam Atwah-umbrella.h"
+
+  export *
+  module * { export * }
+}
