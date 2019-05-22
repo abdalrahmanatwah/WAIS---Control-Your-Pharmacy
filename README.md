@@ -1,6 +1,8 @@
 # WAIS - Control Your Pharmacy
 An update for Atwah app 
 
+Keeping up with your pharmacy is faster and easier than ever. Sell medicines by Name or barcode, Know all sales, Medicines Needed and stay connected to your customer whose important to you.
+
 The Features on the new app:
 1- The login change to be by number phone.
 2- New User interface.
